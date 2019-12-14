@@ -1,3 +1,19 @@
+################################################################################
+#                                                                              #
+# Purpose:       Data Visualization with R & ggplot2                           #
+#                                                                              #
+# Author:        aephidayatuloh                                                #
+# Contact:       aephidayatuloh.mail@gmail.com                                 #
+# Client:                                                                      #
+#                                                                              #
+# Code created:  2019-12-15                                                    #
+# Last updated:  2019-12-15                                                    #
+# Source:        https://github.com/aephidayatuloh/05-visualize                #
+#                                                                              #
+# Comment:                                                                     #
+#                                                                              #
+################################################################################
+
 library(ggplot2)
 library(dplyr)
 
